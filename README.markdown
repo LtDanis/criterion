@@ -1,3 +1,7 @@
+- Commands to benchmark locally
+- ghc -O --make DbBenchmark
+- ./DbBenchmark --output benchmark.html
+
 # Criterion: robust, reliable performance measurement
 
 [![Hackage](https://img.shields.io/hackage/v/criterion.svg)](https://hackage.haskell.org/package/criterion) [![Build Status](https://github.com/haskell/criterion/workflows/Haskell-CI/badge.svg)](https://github.com/haskell/criterion/actions?query=workflow%3AHaskell-CI)
